@@ -1,0 +1,47 @@
+h3{
+    color: #AAA;
+    font-weight: 700 ;
+    font-size: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+
+    background-color: #eee;
+
+
+}
+.last{
+    color: #AAA;
+    font-weight: 700;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+p{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.alert{
+
+background-color: #ffb2b2 ;   
+color: #6d0000;
+border: 1px solid #6d0000;
+color: #6d0000;
+}
+
+#real{
+
+   /* background-color: #EEE;*/
+   background-image: linear-gradient(#EEE,#FFF);
+
+
+
+}
+.spacee{
+background-color: transparent;
+height: 30px;
+}
